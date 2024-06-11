@@ -6,6 +6,7 @@
     <title>Cover Template · Bootstrap v5.0</title>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="../main.js"></script>
 
     <style>
       .bd-placeholder-img {
@@ -42,15 +43,11 @@
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
-    </p>
   </main>
 
   <footer class="mt-auto text-white-50">
     <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Projeto criado por <a href="https://github.com/Nathan2076" class="text-white">@Nathan2076</a>.</p>
   </footer>
 </div>
   </body>

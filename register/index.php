@@ -51,6 +51,7 @@
 
   <footer class="mt-auto text-white-50">
     <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Projeto criado por <a href="https://github.com/Nathan2076" class="text-white">@Nathan2076</a>.</p>
   </footer>
 </div>
   </body>

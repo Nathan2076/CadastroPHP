@@ -42,15 +42,11 @@
   </header>
 
   <main class="px-3">
-    <h1>Seja bem-vind@.</h1>
-    <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso à base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
-    <p class="lead">
-      <a href="https://github.com/Nathan2076/CadastroPHP" class="btn btn-lg btn-secondary fw-bold border-white bg-white">GitHub</a>
-    </p>
   </main>
 
   <footer class="mt-auto text-white-50">
     <p>Template obtido no <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, criado por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Projeto criado por <a href="https://github.com/Nathan2076" class="text-white">@Nathan2076</a>.</p>
   </footer>
 </div>
   </body>
