@@ -48,7 +48,7 @@
       <br>
       <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
       <br>
-      <button onclick="Verify()" class="btn btn-light">ACESSAR</button>
+      <button onclick="VerifyLogin()" class="btn btn-light">ACESSAR</button>
     </form>
   </main>
 

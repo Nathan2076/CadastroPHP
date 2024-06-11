@@ -1,4 +1,4 @@
-function Verify()
+function VerifyLogin()
 {
     let user = document.getElementById("loginEmail").value;
     let pswr = document.getElementById("loginSenha").value;
