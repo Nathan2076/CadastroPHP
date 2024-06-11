@@ -6,6 +6,7 @@
     <title>Cover Template · Bootstrap v5.0</title>
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="../main.js"></script>
 
     <style>
       .bd-placeholder-img {
@@ -42,11 +43,15 @@
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
-    </p>
+    <form>
+      <input type="email" id="loginEmail" placeholder="Digite seu email" class="form-control"/>
+      <br>
+      <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
+      <br>
+      <input type="password" id="loginSenhaConfirm" placeholder="Confirme sua senha" class="form-control"/>
+      <br>
+      <button onclick="VerifyRegister()" class="btn btn-light">ACESSAR</button>
+    </form>
   </main>
 
   <footer class="mt-auto text-white-50">
