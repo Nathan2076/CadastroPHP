@@ -43,6 +43,13 @@
   </header>
 
   <main class="px-3">
+    <form>
+      <input type="email" id="loginEmail" placeholder="Digite seu email" class="form-control"/>
+      <br>
+      <input type="password" id="loginSenha" placeholder="Digite sua senha" class="form-control"/>
+      <br>
+      <button onclick="Verify()" class="btn btn-light">ACESSAR</button>
+    </form>
   </main>
 
   <footer class="mt-auto text-white-50">
