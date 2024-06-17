@@ -42,6 +42,11 @@
   </header>
 
   <main class="px-3">
+    <h1>Seja bem-vind@.</h1>
+    <p class="lead">Essa página é a página principal de um pequeno projeto criado para o ensino de acesso à base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
+    <p class="lead">
+      <a href="" class="btn btn-lg btn-secondary fw-fold border-white bg-white">GitHub</a>
+    </p>
   </main>
 
   <footer class="mt-auto text-white-50">
