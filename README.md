@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Aa
+Uma página de cadastro e login com ligação a banco de dados usando PHP. A conexão será feita em uma atividade futura.
 
 ## Tecnologias Utilizadas
 
